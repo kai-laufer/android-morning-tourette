@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
                 return false;
             }
         });
-        webView.loadUrl("http://morningtourette.kasus.org/");
+        webView.loadUrl("http://morningtourette.com/");
     }
 
     @Override
